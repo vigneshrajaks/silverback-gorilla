@@ -523,6 +523,8 @@ SECTION COPYRIGHT
     opacity: 0;
     pointer-events: none;
     visibility: hidden;
+    
+    z-index: 999;
   }
 
   .nav-open .main-nav {
